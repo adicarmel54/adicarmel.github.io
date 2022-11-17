@@ -1,0 +1,8 @@
+.nav {
+    background-color: var(--color-primary);
+}
+
+.nav-elt {
+    font: bold 1rem Helvetica, Arial, Sans-Serif;
+    color: var(--color-bg); 
+}
